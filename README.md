@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Wahsahil/Leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Wahsahil/Leetcode/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/Wahsahil/Leetcode/tree/master/0184-department-highest-salary) |
 | [1193-monthly-transactions-i](https://github.com/Wahsahil/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Wahsahil/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
