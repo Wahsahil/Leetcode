@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Wahsahil/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Wahsahil/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/Wahsahil/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1193-monthly-transactions-i](https://github.com/Wahsahil/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Wahsahil/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Wahsahil/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
