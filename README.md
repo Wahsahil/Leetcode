@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Wahsahil/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Wahsahil/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Wahsahil/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Wahsahil/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Wahsahil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Wahsahil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Wahsahil/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Wahsahil/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Wahsahil/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Wahsahil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
