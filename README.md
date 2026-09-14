@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Wahsahil/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/Wahsahil/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Wahsahil/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Wahsahil/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Wahsahil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Wahsahil/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/Wahsahil/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Wahsahil/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Wahsahil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
