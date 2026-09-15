@@ -1,9 +1,7 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        r = []
+        j = 0
         for i in range(len(nums)):
             if nums[i] != 0:
-                r.append(nums[i])
-        while len(r) < len(nums):
-            r.append(0)
-        nums[:] = r
+                nums[i], nums[j] = nums[j], nums[i]
+                j += 1
