@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Wahsahil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Wahsahil/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Wahsahil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1089-duplicate-zeros](https://github.com/Wahsahil/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Wahsahil/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Wahsahil/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Wahsahil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1089-duplicate-zeros](https://github.com/Wahsahil/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
