@@ -15,7 +15,4 @@ class Solution(object):
             nums1[k]=nums2[j]
             k-=1
             j-=1
-        while i>=0:
-            nums1[k]=nums1[i]
-            k-=1
-            i-=1
+       
