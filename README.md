@@ -129,5 +129,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Wahsahil/Leetcode/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/Wahsahil/Leetcode/tree/master/0326-power-of-three) |
 | [3870-count-commas-in-range](https://github.com/Wahsahil/Leetcode/tree/master/3870-count-commas-in-range) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Wahsahil/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
