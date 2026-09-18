@@ -129,10 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Wahsahil/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Wahsahil/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Wahsahil/Leetcode/tree/master/0326-power-of-three) |
 | [3870-count-commas-in-range](https://github.com/Wahsahil/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Wahsahil/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Wahsahil/Leetcode/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Wahsahil/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
