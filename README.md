@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/Wahsahil/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Wahsahil/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Wahsahil/Leetcode/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Wahsahil/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1693-daily-leads-and-partners](https://github.com/Wahsahil/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Wahsahil/Leetcode/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Wahsahil/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
