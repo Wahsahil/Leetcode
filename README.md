@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Wahsahil/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Wahsahil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Wahsahil/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/Wahsahil/Leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Wahsahil/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Wahsahil/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Wahsahil/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Wahsahil/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Wahsahil/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Wahsahil/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Wahsahil/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
