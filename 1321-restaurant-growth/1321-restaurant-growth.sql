@@ -8,6 +8,6 @@ join
 )  c2
 on
 c2.visited_on between date_sub(c.visited_on,Interval 6 day) and c.visited_on                  
-group by visited_on
+group by c.visited_on
 having count(*)=7
-order by visited_on      
+order by c.visited_on      
