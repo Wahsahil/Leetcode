@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Wahsahil/Leetcode/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Wahsahil/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Wahsahil/Leetcode/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/Wahsahil/Leetcode/tree/master/0585-investments-in-2016) |
 | [0601-human-traffic-of-stadium](https://github.com/Wahsahil/Leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Wahsahil/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1045-customers-who-bought-all-products](https://github.com/Wahsahil/Leetcode/tree/master/1045-customers-who-bought-all-products) |
