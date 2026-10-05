@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Wahsahil/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/Wahsahil/Leetcode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Wahsahil/Leetcode/tree/master/1341-movie-rating) |
+| [1527-patients-with-a-condition](https://github.com/Wahsahil/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Wahsahil/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/Wahsahil/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Wahsahil/Leetcode/tree/master/1729-find-followers-count) |
