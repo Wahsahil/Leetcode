@@ -1,9 +1,8 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        se = set()
-        for n in nums:
-            if n in se:
+        s = set()
+        for i in nums:
+            if i in s:
                 return True
-            se.add(n)
+            s.add(i)
         return False
-        
