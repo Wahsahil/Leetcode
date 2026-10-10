@@ -1,12 +1,12 @@
 class Solution(object):
     def majorityElement(self, nums):
-        h = {}
-        for n in nums:
-            h[n] = h.get(n,0) + 1
-        max = 0
-        maj = 0
-        for i,j in h.items():
-            if j>max:
-                max = j
-                maj =i
-        return maj
+        d ={}
+        m=0
+        mj=0
+        for i in nums:
+            d[i] = d.get(i,0)+1
+        for i in d:
+            if d[i]>m:
+                m= d[i]
+                mj=i
+        return mj
