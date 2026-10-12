@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Wahsahil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Wahsahil/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Wahsahil/Leetcode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Wahsahil/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Wahsahil/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Wahsahil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Wahsahil/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Wahsahil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Wahsahil/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Wahsahil/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Wahsahil/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Wahsahil/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Wahsahil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Wahsahil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Wahsahil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Wahsahil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Wahsahil/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Wahsahil/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Wahsahil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Wahsahil/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Wahsahil/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Wahsahil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Wahsahil/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Wahsahil/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Wahsahil/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Wahsahil/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Wahsahil/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Wahsahil/Leetcode/tree/master/0326-power-of-three) |
 | [3870-count-commas-in-range](https://github.com/Wahsahil/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Recursion
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Wahsahil/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Wahsahil/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Wahsahil/Leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
