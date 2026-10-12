@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Wahsahil/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Wahsahil/Leetcode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Wahsahil/Leetcode/tree/master/0608-tree-node) |
+| [0626-exchange-seats](https://github.com/Wahsahil/Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Wahsahil/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Wahsahil/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Wahsahil/Leetcode/tree/master/1070-product-sales-analysis-iii) |
