@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Wahsahil/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Wahsahil/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Wahsahil/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Wahsahil/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Wahsahil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Wahsahil/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Wahsahil/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Wahsahil/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Wahsahil/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Wahsahil/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Wahsahil/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Wahsahil/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Wahsahil/Leetcode/tree/master/0134-gas-station) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Wahsahil/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
