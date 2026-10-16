@@ -6,4 +6,4 @@ with x as (
 )
 select distinct(num) as ConsecutiveNums
 from x
-where num = pre1 and num = pre2
+where num = pre1 and pre1 = pre2
