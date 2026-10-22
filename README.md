@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/Wahsahil/Leetcode/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/Wahsahil/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Wahsahil/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1251-average-selling-price](https://github.com/Wahsahil/Leetcode/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/Wahsahil/Leetcode/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Wahsahil/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Wahsahil/Leetcode/tree/master/1341-movie-rating) |
