@@ -1,13 +1,3 @@
-SELECT product_id,
-       year AS first_year,
-       quantity,
-       price
-FROM (
-    SELECT *,
-           RANK() OVER (
-               PARTITION BY product_id
-               ORDER BY year
-           ) AS rn
-    FROM Sales
-) x
-WHERE rn = 1;
+with x as (select *, rank() over(partition by product_id order by year) as rnk from Sales)
+select product_id , year as first_year, quantity,price from x
+where rnk = 1
