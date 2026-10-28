@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Wahsahil/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Wahsahil/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Wahsahil/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Wahsahil/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Wahsahil/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Wahsahil/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Wahsahil/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Wahsahil/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Wahsahil/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Wahsahil/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Wahsahil/Leetcode/tree/master/0268-missing-number) |
