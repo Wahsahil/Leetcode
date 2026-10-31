@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Wahsahil/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Wahsahil/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Wahsahil/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Wahsahil/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Wahsahil/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Wahsahil/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Wahsahil/Leetcode/tree/master/0242-valid-anagram) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Wahsahil/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Wahsahil/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Wahsahil/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Wahsahil/Leetcode/tree/master/0231-power-of-two) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Wahsahil/Leetcode/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Wahsahil/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
