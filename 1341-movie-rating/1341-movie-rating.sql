@@ -1,17 +1,18 @@
-(SELECT u.name AS results
- FROM Users u
- JOIN MovieRating r ON u.user_id = r.user_id
- GROUP BY u.user_id, u.name
- ORDER BY COUNT(*) DESC, u.name ASC
- LIMIT 1)
+(select u.name as results 
+from Users u
+join MovieRating mk 
+on u.user_id = mk.user_id
+group by u.user_id, u.name 
+order by count(*) desc , u.name asc 
+limit 1)
 
 UNION ALL
 
-(SELECT m.title AS results
- FROM Movies m
- JOIN MovieRating r ON m.movie_id = r.movie_id
- WHERE r.created_at >= '2020-02-01'
-   AND r.created_at < '2020-03-01'
- GROUP BY m.movie_id, m.title
- ORDER BY AVG(r.rating) DESC, m.title ASC
- LIMIT 1);
+(select mo.title as results 
+from movies mo
+join MovieRating m 
+on mo.movie_id = m.movie_id
+where m.created_at between '2020-02-01' and '2020-02-29'
+group by mo.movie_id,mo.title
+order by avg(m.rating) desc , mo.title asc
+limit 1)
