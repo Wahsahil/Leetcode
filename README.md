@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Wahsahil/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Wahsahil/Leetcode/tree/master/0071-simplify-path) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Wahsahil/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Wahsahil/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Wahsahil/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Wahsahil/Leetcode/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/Wahsahil/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Wahsahil/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Wahsahil/Leetcode/tree/master/0290-word-pattern) |
