@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Wahsahil/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Wahsahil/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Wahsahil/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Wahsahil/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Wahsahil/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Wahsahil/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Wahsahil/Leetcode/tree/master/0290-word-pattern) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Wahsahil/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Wahsahil/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Wahsahil/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Wahsahil/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Wahsahil/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Wahsahil/Leetcode/tree/master/0268-missing-number) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Wahsahil/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Wahsahil/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Wahsahil/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Wahsahil/Leetcode/tree/master/0231-power-of-two) |
@@ -293,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Wahsahil/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Wahsahil/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
