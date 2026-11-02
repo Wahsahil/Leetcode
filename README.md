@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Wahsahil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Wahsahil/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Wahsahil/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0806-number-of-lines-to-write-string](https://github.com/Wahsahil/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/Wahsahil/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Wahsahil/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1089-duplicate-zeros](https://github.com/Wahsahil/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Wahsahil/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Wahsahil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Wahsahil/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0806-number-of-lines-to-write-string](https://github.com/Wahsahil/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Wahsahil/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Wahsahil/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Wahsahil/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
