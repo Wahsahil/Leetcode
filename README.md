@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Wahsahil/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Wahsahil/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Wahsahil/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3110-score-of-a-string](https://github.com/Wahsahil/Leetcode/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
