@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Wahsahil/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Wahsahil/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Wahsahil/Leetcode/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/Wahsahil/Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Wahsahil/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Wahsahil/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Wahsahil/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Wahsahil/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Wahsahil/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Wahsahil/Leetcode/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/Wahsahil/Leetcode/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/Wahsahil/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Wahsahil/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Wahsahil/Leetcode/tree/master/0290-word-pattern) |
